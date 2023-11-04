@@ -1,0 +1,41 @@
+baseURL: https://rar-hugo.pages.dev
+languageCode: en-us
+title: RAR of Texas
+theme: rar-hugo
+copyright: RAR of Texas 2023
+paginate: 3
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+params:
+  favicon: /logo/RAR_icon.svg
+  brandlogo_dark: /logo/RAR-of-Texas_logo.svg
+  description: RAR of Texas
+
+  
+menu:
+    nav:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: products
+      name: Products
+      url: /products/
+      weight: 2
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 3
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 5
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 4
