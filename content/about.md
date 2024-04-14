@@ -5,8 +5,4 @@ draft: false
 ---
 
 
-About Page.
-
-<i class=“fa-solid fa-beer-mug-empty”></i>
-
-Built with <i class=“fas fa-heart”></i> from Grav and Hugo
+# About Page Coming Soon. 
