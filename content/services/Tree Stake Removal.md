@@ -4,4 +4,4 @@ draft: false
 ---
 
 
-<img src="/images/sl-flyer.png" alt="Summer Lakes Flyer" class="responsive">
+<img src="/images/sl-flyer.png" alt="Summer Lakes Flyer" class="image_fill">
