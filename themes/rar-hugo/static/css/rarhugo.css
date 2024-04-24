@@ -141,8 +141,7 @@ iframe {
 }
 
 .logo {
-    display      : flex;
-    align-items  : start;
+    float        : left;
     margin-top   : 20px;
     max-height   : 15vh;
     max-width    : 90vw;
