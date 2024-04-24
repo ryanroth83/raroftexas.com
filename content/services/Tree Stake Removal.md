@@ -2,4 +2,4 @@
 title: "Tree Stake Removal"
 draft: false
 ---
-![](SL-flyer.png)
+![Summer Lakes Flyer](/images/sl-flyer.png)
