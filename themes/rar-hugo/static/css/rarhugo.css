@@ -301,3 +301,8 @@ pre {
 a:link {
     text-decoration: none;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
