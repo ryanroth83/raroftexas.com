@@ -141,10 +141,11 @@ iframe {
 }
 
 .logo {
-    display: flex;
-    align-items: left;
-    max-height: 15vh;
-    max-width: 90vw;
+    display      : block;
+    margin-left  : 20px;
+    margin-right : auto;
+    max-height   : 15vh;
+    max-width    : 90vw;
 }
 
 
