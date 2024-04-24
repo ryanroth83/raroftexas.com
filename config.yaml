@@ -1,8 +1,8 @@
-baseURL: https://rar-hugo.pages.dev
+baseURL: https://raroftexas.com
 languageCode: en-us
 title: RAR of Texas
 theme: rar-hugo
-copyright: RAR of Texas 2023
+copyright: RAR of Texas
 paginate: 3
 
 
